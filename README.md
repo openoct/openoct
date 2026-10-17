@@ -28,3 +28,7 @@ Contributions are welcome. Open an issue to report bugs or suggest ideas, or sub
 ## License
 
 See the individual repositories for license details.
+
+## Scan to Connect
+
+<img src="docs/qr-code.png" alt="OpenOCT QR code" width="200">
